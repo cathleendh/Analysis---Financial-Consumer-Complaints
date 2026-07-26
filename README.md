@@ -13,16 +13,16 @@ Analysi of consumer complaints on financial products & services for Bank of Amer
 
 - **No meaningful seasonality.** Peak complaint month changes every year with no repeating pattern, however, the number of complaints increases at every year.
 - **Checking/savings accounts account for most of the complaints**, dominated by "managing an account" issues.
-- **65.7% of complaints close with an explanation only**, 23.5% receive monetary relief. 
+- **65.7% of complaints close with an explanation only**, followed with 23.5% receiving monetary relief. 
 - **The number of untimely response is a small percentage.** However, 2021's untimely rate increases significantly compared to previous years.
 
 ## Repository Contents
 
 | File | Description |
 |---|---|
+| `Dataset` | Contains the .csv file for the main dataset and .csv file for data dictionary |
 | `Consumer_Complaints_Analysis.ipynb` | Full analysis notebook — narrative, code, charts, statistical tests, and business recommendations |
 | `README.md` | This file |
-| `Dataset` | Contains the .csv file for the main dataset and .csv file for data dictionary |
 
 ## Tools Used
 
